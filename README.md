@@ -31,5 +31,5 @@
   else print no
 
   Final Output:
-  yes
+  no
   </pre>
